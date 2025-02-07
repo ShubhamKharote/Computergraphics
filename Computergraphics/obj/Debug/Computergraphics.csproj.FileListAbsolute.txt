@@ -1,0 +1,10 @@
+C:\Users\Shubham Kharote\source\repos\Computergraphics\Computergraphics\bin\Debug\Computergraphics.exe.config
+C:\Users\Shubham Kharote\source\repos\Computergraphics\Computergraphics\bin\Debug\Computergraphics.exe
+C:\Users\Shubham Kharote\source\repos\Computergraphics\Computergraphics\bin\Debug\Computergraphics.pdb
+C:\Users\Shubham Kharote\source\repos\Computergraphics\Computergraphics\obj\Debug\Computergraphics.csproj.AssemblyReference.cache
+C:\Users\Shubham Kharote\source\repos\Computergraphics\Computergraphics\obj\Debug\Computergraphics.Form1.resources
+C:\Users\Shubham Kharote\source\repos\Computergraphics\Computergraphics\obj\Debug\Computergraphics.Properties.Resources.resources
+C:\Users\Shubham Kharote\source\repos\Computergraphics\Computergraphics\obj\Debug\Computergraphics.csproj.GenerateResource.cache
+C:\Users\Shubham Kharote\source\repos\Computergraphics\Computergraphics\obj\Debug\Computergraphics.csproj.CoreCompileInputs.cache
+C:\Users\Shubham Kharote\source\repos\Computergraphics\Computergraphics\obj\Debug\Computergraphics.exe
+C:\Users\Shubham Kharote\source\repos\Computergraphics\Computergraphics\obj\Debug\Computergraphics.pdb
